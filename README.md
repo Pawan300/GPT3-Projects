@@ -2,4 +2,3 @@
 
 * SQL generation
 * MONGO generation
-* 
